@@ -1,0 +1,17 @@
+jwt:
+    time: 900000
+    secret: hello-world4444
+posco:
+    name: 3기dev
+    count: 20
+    datasource:
+        url: jdbc:mysql://localhost:3306/insta?serverTimezone=UTC&amp
+        characterEncoding: UTF-8
+        username: root
+        password: 1234
+spring:
+    datasource:
+        url: jdbc:mysql://localhost:3306/insta?serverTimezone=UTC&amp
+        characterEncoding: UTF-8
+        username: root
+        password: "{cipher}a255a2b23c64393c1b1dbdefe45e79de1e506480691dc890dc6969cd72138eed"
