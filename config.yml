@@ -9,10 +9,10 @@ posco:
         url: jdbc:mysql://localhost:3306/insta?serverTimezone=UTC&amp
         characterEncoding: UTF-8
         username: root
-        password: 1234
+        password: 123
 spring:
     datasource:
         url: jdbc:mysql://localhost:3306/insta?serverTimezone=UTC&amp
         characterEncoding: UTF-8
         username: gonggu
-        password: 1234
+        password: 123123123
