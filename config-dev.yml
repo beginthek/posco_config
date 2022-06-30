@@ -1,6 +1,6 @@
 jwt:
-    time: 900000
-    secret: hello-world4444
+    expTime: 1000
+    secret_key: hello-posco
 posco:
     name: 3기dev
     count: 20

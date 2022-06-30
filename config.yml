@@ -1,6 +1,6 @@
 jwt:
-    time: 1000
-    secret: hello-posco
+    expTime: 1000
+    secret_key: hello-posco
 
 posco:
     name: 3기default
